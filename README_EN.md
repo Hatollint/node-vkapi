@@ -1,3 +1,5 @@
+> The library is no longer maintained. Check out [this one](https://github.com/negezor/vk-io).
+
 # node-vkapi &middot; [![npm](https://img.shields.io/npm/v/node-vkapi.svg)](http://npmjs.org/node-vkapi) [![npm](https://img.shields.io/npm/dt/node-vkapi.svg)](http://npmjs.org/node-vkapi)
 
 ```bash
@@ -74,7 +76,7 @@ Parameters for a direct authorization request and their defaults.
 
 Calls Vkontakte API methods.
 
-> A full response object will be returned if `execute` method was called. [More info](https://github.com/olnazx/node-vkapi/issues/16)
+> A full response object will be returned if `execute` method was called. [More info](https://github.com/woodymikki/node-vkapi/issues/16)
 
 ### vkapi.logIn(params)
 * `params<Object>` [Request parameters](#params-1)

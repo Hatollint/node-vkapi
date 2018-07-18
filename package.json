@@ -1,7 +1,7 @@
 {
   "name": "node-vkapi",
   "version": "3.0.7",
-  "description": "Node.js SDK for Vkontakte API (vk.com)",
+  "description": "Lightweight API wrapper for Vkontakte",
   "main": "./src/vkapi.js",
   "scripts": {
     "test": "jest"

@@ -1,3 +1,5 @@
+> Библиотека больше не будет получать обновлений. Используйте [эту](https://github.com/negezor/vk-io).
+
 # node-vkapi &middot; [![npm](https://img.shields.io/npm/v/node-vkapi.svg)](http://npmjs.org/node-vkapi) [![npm](https://img.shields.io/npm/dt/node-vkapi.svg)](http://npmjs.org/node-vkapi)
 
 ```bash
@@ -77,7 +79,7 @@ vkapi.call('users.get', {
 
 Вызывает методы API ВКонтакте.
 
-> При вызове метода `execute` будет возвращён полный ответ от ВКонтакте. [Подробнее](https://github.com/olnazx/node-vkapi/issues/16)
+> При вызове метода `execute` будет возвращён полный ответ от ВКонтакте. [Подробнее](https://github.com/woodymikki/node-vkapi/issues/16)
 
 ### vkapi.logIn(params)
 * `params<Object>` [Параметры](#params-1) запроса
